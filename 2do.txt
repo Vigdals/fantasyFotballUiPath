@@ -1,0 +1,8 @@
+Legg til fin formatering på deadlineday
+Endre formatering på datatabellen om nyheiter
+Legg til spelarar som du har på laget som ikkje er speleklare
+Legg inn close tab i final state, eller i process????
+Do all the data table work
+install this package: Microsoft.Activities.Extensions
+update packages, follow:
+https://excelcult.com/how-to-define-dictionary-add-items-to-dictionary-and-access-items-from-dictionary-in-uipath/
